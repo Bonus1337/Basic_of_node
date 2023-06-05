@@ -11,13 +11,13 @@ To set up this project, follow the steps below:
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Bonus1337/Basic_of_node.git
 ```
 
 3. Navigate into the directory of the project:
 
 ```bash
-cd your-repo-name
+cd Basic_of_node
 ```
 
 4. Install the dependencies:
@@ -34,6 +34,12 @@ Start the server by running the following command in your terminal:
 
 ```bash
 node calculator.js
+```
+
+or
+
+```bash
+node nodemon calculator.js
 ```
 
 Once the server is running, you can interact with the applications through a web browser.
